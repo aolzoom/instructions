@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to The Art of Living Foundation
 
-You can use the [editor on GitHub](https://github.com/aolzoom/instructions/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Dear Sadhak
+Jai Gurudeva
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to this wonderful journey called the Art of Living Advanced Meditation Program. Here are a few guidelines that can help you get the best from the program. 
+
+1. A Light Sattvik diet is advised on this program. More veggies, less spices, avoiding sugar and maida as much as possible would be a great idea. At the same time, fasting is not advised either, please do make sure you maintain a healthy diet for the duration of the program.
+2. Sufficient breaks will be given, so please make sure you hydrate well - suggested to have at least four to five litres of water during the whole day. 
+3. On the Zoom call, since we have a lot of participants, we will be following a process to admit people into the zoom meeting. 
 
 ### Markdown
 
