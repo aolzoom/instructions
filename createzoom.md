@@ -1,7 +1,7 @@
 # Procedure to Create Zoom Account
 ## Desktop/Laptop
 
-1. Click on [Zoom Sign up](https://zoom.us/signup) and select your birth month, day and  year
+1. Click on [Zoom Sign up](https://zoom.us/signup){:target="_blank" rel="noopener"} and select your birth month, day and  year
 ![Zoom Signup](img/browser/ZoomSignupBrowser.png)
 
 2. Enter your email or signup with social logins using the links at the bottom. Please use the same email that you used to register for the course. You can either enter your email address or use your apple, facebook or google account to create your account. In case you use your apple account, please make sure you do not use a dummy email, but your actual email to create the account. 

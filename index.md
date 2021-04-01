@@ -24,6 +24,6 @@ On the Zoom call, since we have a lot of participants, we will be following a pr
 # Support or Contact
 
 Having trouble with Zoom? Check out 
-[![How to join a Zoom meeting](https://img.youtube.com/vi/hIkCmbvAHQQ/0.jpg)](https://www.youtube.com/watch?v=hIkCmbvAHQQ)
+[![How to join a Zoom meeting](https://img.youtube.com/vi/hIkCmbvAHQQ/0.jpg)](https://www.youtube.com/watch?v=hIkCmbvAHQQ){:target="_blank" rel="noopener"}
 
-OR visit [Frequently Asked Questions](https://support.zoom.us/hc/en-us/articles/206175806-Frequently-asked-questions).
+OR visit [Frequently Asked Questions](https://support.zoom.us/hc/en-us/articles/206175806-Frequently-asked-questions){:target="_blank" rel="noopener"}.
